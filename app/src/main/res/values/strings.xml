@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat with Socket IO</string>
+    <string name="chat_text">Write something</string>
+    <string name="sender_text">I am sender</string>
+    <string name="receiver_text">I am receiver</string>
+    <string name="name_dialog_value">Enter your name and number to continue</string>
+    <string name="name_dialog_edittext_name">Enter your name</string>
+    <string name="name_dialog_edittext_number">Enter your number</string>
+    <string name="name_dialog_button_yes">Enter Chat</string>
+    <string name="name_dialog_button_no">Exit</string>
+    <string name="toolbar_text">Nobody joined yet</string>
+
+</resources>
